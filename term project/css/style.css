@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    border: none;
+    position: relative;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+}
